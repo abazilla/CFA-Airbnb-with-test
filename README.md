@@ -1,21 +1,5 @@
-# Airbnb fresh
+# Airbnb w/ testing
 
-This project was used to teach payment processing with Stripe, multiple image uploads and how to integrate booking functionality. 
+As part of the CFA bootcamp, this project was done to learn how to do testing within rails, using rspec, factorygirl, binding/pry and faker. It was cloned from an existing project, and tests were added.
 
-### Installation
-
-```
-$ git clone https://github.com/jcerexhe/airbnb-fresh.git
-```
-
-```
-$ cd airbnb-fresh
-```
-
-```
-$ bundle
-```
-
-```
-$ rake db:migrate
-```
+![Imgur](http://i.imgur.com/obIz0jp.png)
